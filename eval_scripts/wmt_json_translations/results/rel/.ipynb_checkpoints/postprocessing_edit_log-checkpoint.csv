@@ -1,0 +1,1147 @@
+﻿row,model,edited_category,original_value,new_value,reason,csv_row
+485,Tiny Aya Global,gold,"['informatische Abschrift', 'digitale Kopie']",[],gold + hyponym match -> hyponym survives,487
+158,Tiny Aya Global,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+309,Tiny Aya Global,co-hyponym,['Verbotssignal'],[],gold + co-hyponym match -> gold survives,311
+392,Tiny Aya Global,co-hyponym,['magnetisch Feld'],[],gold + co-hyponym match -> gold survives,394
+497,Tiny Aya Global,co-hyponym,['oropharyngealer Abstrich'],[],gold + co-hyponym match -> gold survives,499
+513,Tiny Aya Global,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+530,Tiny Aya Global,co-hyponym,['qualifiziert Labortechniker'],[],gold + co-hyponym match -> gold survives,532
+23,Tiny Aya Global,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+34,Tiny Aya Global,hypernym,['Archiv'],[],gold + hypernym match -> gold survives,36
+38,Tiny Aya Global,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+115,Tiny Aya Global,hypernym,['Übungsfahrt'],[],gold + hypernym match -> gold survives,117
+120,Tiny Aya Global,hypernym,['meldeamtliche Bescheinigung'],[],gold + hypernym match -> gold survives,122
+122,Tiny Aya Global,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+125,Tiny Aya Global,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,127
+155,Tiny Aya Global,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+176,Tiny Aya Global,hypernym,['Vorschriftssignal'],[],gold + hypernym match -> gold survives,178
+179,Tiny Aya Global,hypernym,['Kennzeichen'],[],gold + hypernym match -> gold survives,181
+222,Tiny Aya Global,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,224
+225,Tiny Aya Global,hypernym,"['Fahrzeug', 'Fahrzeug', 'Kleinbus']",[],gold + hypernym match -> gold survives,227
+234,Tiny Aya Global,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,236
+315,Tiny Aya Global,hypernym,['Verbotsschild'],[],gold + hypernym match -> gold survives,317
+333,Tiny Aya Global,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+359,Tiny Aya Global,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,361
+377,Tiny Aya Global,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+396,Tiny Aya Global,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+469,Tiny Aya Global,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,Tiny Aya Global,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,Tiny Aya Global,hypernym,"['Gefahr', 'Risiko']",[],gold + hypernym match -> gold survives,473
+491,Tiny Aya Global,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,493
+492,Tiny Aya Global,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,494
+507,Tiny Aya Global,hypernym,"['Umfrage', 'Umfrage']",[],gold + hypernym match -> gold survives,509
+31,GPT OSS 20B,gold,['Rückfall'],[],gold + hyponym match -> hyponym survives,33
+64,GPT OSS 20B,gold,['Zugangsrecht'],[],gold + hyponym match -> hyponym survives,66
+167,GPT OSS 20B,gold,['Ding'],[],gold + hyponym match -> hyponym survives,169
+204,GPT OSS 20B,gold,['Fachoberschule'],[],gold + hyponym match -> hyponym survives,206
+462,GPT OSS 20B,gold,['Tür'],[],gold + hyponym match -> hyponym survives,464
+485,GPT OSS 20B,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,487
+487,GPT OSS 20B,gold,['elektronische Kopie'],[],gold + hyponym match -> hyponym survives,489
+532,GPT OSS 20B,gold,['Zugangsrecht'],[],gold + hyponym match -> hyponym survives,534
+82,GPT OSS 20B,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+158,GPT OSS 20B,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,GPT OSS 20B,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+201,GPT OSS 20B,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+285,GPT OSS 20B,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+385,GPT OSS 20B,co-hyponym,['Quetschgefahr'],[],gold + co-hyponym match -> gold survives,387
+392,GPT OSS 20B,co-hyponym,['magnetisch Feld'],[],gold + co-hyponym match -> gold survives,394
+513,GPT OSS 20B,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+23,GPT OSS 20B,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+36,GPT OSS 20B,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,GPT OSS 20B,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+122,GPT OSS 20B,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+147,GPT OSS 20B,hypernym,['Abfall'],[],gold + hypernym match -> gold survives,149
+150,GPT OSS 20B,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+155,GPT OSS 20B,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+209,GPT OSS 20B,hypernym,['Verwaltungsmaßnahme'],[],gold + hypernym match -> gold survives,211
+214,GPT OSS 20B,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,GPT OSS 20B,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,GPT OSS 20B,hypernym,"['Fahrzeug', 'Fahrzeug']",[],gold + hypernym match -> gold survives,227
+237,GPT OSS 20B,hypernym,['Kraftfahrzeug'],[],gold + hypernym match -> gold survives,239
+331,GPT OSS 20B,hypernym,['Brand'],[],gold + hypernym match -> gold survives,333
+333,GPT OSS 20B,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+338,GPT OSS 20B,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+367,GPT OSS 20B,hypernym,['PSA'],[],gold + hypernym match -> gold survives,369
+377,GPT OSS 20B,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+378,GPT OSS 20B,hypernym,['Schutzkleidung'],[],gold + hypernym match -> gold survives,380
+388,GPT OSS 20B,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+396,GPT OSS 20B,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+417,GPT OSS 20B,hypernym,['Gas'],[],gold + hypernym match -> gold survives,419
+442,GPT OSS 20B,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+471,GPT OSS 20B,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+491,GPT OSS 20B,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,493
+492,GPT OSS 20B,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,494
+541,GPT OSS 20B,hypernym,['Denkmalschutz'],[],gold + hypernym match -> gold survives,543
+132,UvA-MT,gold,['Zertifizierungsdiensteanbieter'],[],gold + hyponym match -> hyponym survives,134
+358,UvA-MT,gold,['aktiv Teil'],[],gold + hyponym match -> hyponym survives,360
+364,UvA-MT,gold,['unmittelbar Wirkung'],[],gold + hyponym match -> hyponym survives,366
+390,UvA-MT,gold,['Mehrzweckleiter'],[],gold + hyponym match -> hyponym survives,392
+535,UvA-MT,gold,['Freilandstraße'],[],gold + hyponym match -> hyponym survives,537
+555,UvA-MT,gold,['ärztlich Untersuchung'],[],gold + hyponym match -> hyponym survives,557
+84,UvA-MT,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+105,UvA-MT,co-hyponym,['Ersatzerklärung der Notorietätsakt'],[],gold + co-hyponym match -> gold survives,107
+158,UvA-MT,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,UvA-MT,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+201,UvA-MT,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+285,UvA-MT,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+329,UvA-MT,co-hyponym,['heiß Umgebung'],[],gold + co-hyponym match -> gold survives,331
+332,UvA-MT,co-hyponym,"['Zündphase', 'Vollbrandphase']",[],gold + co-hyponym match -> gold survives,334
+337,UvA-MT,co-hyponym,['Einwirkdauer'],[],gold + co-hyponym match -> gold survives,339
+341,UvA-MT,co-hyponym,['technisch Massnahme'],[],gold + co-hyponym match -> gold survives,343
+370,UvA-MT,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+388,UvA-MT,co-hyponym,['Auftritt'],[],gold + co-hyponym match -> gold survives,390
+392,UvA-MT,co-hyponym,['Magnetfeld'],[],gold + co-hyponym match -> gold survives,394
+431,UvA-MT,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+467,UvA-MT,co-hyponym,['FELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,469
+468,UvA-MT,co-hyponym,['PELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,470
+497,UvA-MT,co-hyponym,['Oropharyngealabstrich'],[],gold + co-hyponym match -> gold survives,499
+510,UvA-MT,co-hyponym,"['Rente wegen teilweiser Erwerbsminderung', 'Rente wegen teilweiser Erwerbsminderung']",[],gold + co-hyponym match -> gold survives,512
+513,UvA-MT,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+553,UvA-MT,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+36,UvA-MT,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,UvA-MT,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+72,UvA-MT,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,74
+73,UvA-MT,hypernym,['Ungeborener'],[],gold + hypernym match -> gold survives,75
+92,UvA-MT,hypernym,['Großstadt mit Sonderstatus'],[],gold + hypernym match -> gold survives,94
+105,UvA-MT,hypernym,['Ersatzerklärung'],[],gold + hypernym match -> gold survives,107
+122,UvA-MT,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+124,UvA-MT,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+125,UvA-MT,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,127
+147,UvA-MT,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,UvA-MT,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+161,UvA-MT,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+209,UvA-MT,hypernym,['Maßnahme'],[],gold + hypernym match -> gold survives,211
+214,UvA-MT,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,UvA-MT,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,UvA-MT,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+275,UvA-MT,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,277
+287,UvA-MT,hypernym,['Schutzkleidung'],[],gold + hypernym match -> gold survives,289
+333,UvA-MT,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+338,UvA-MT,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+339,UvA-MT,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,341
+367,UvA-MT,hypernym,['PSA'],[],gold + hypernym match -> gold survives,369
+377,UvA-MT,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+378,UvA-MT,hypernym,['Schutzkleidung'],[],gold + hypernym match -> gold survives,380
+388,UvA-MT,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+396,UvA-MT,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+403,UvA-MT,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,405
+426,UvA-MT,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,UvA-MT,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+470,UvA-MT,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,UvA-MT,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+507,UvA-MT,hypernym,"['Umfrage', 'Umfrage']",[],gold + hypernym match -> gold survives,509
+31,Qingqiu-MT-9B,gold,['Rückfall'],[],gold + hyponym match -> hyponym survives,33
+41,Qingqiu-MT-9B,gold,['Dienststellenkonferenz'],[],gold + hyponym match -> hyponym survives,43
+50,Qingqiu-MT-9B,gold,['Reservefonds'],[],gold + hyponym match -> hyponym survives,52
+64,Qingqiu-MT-9B,gold,['Zugangsrecht'],[],gold + hyponym match -> hyponym survives,66
+132,Qingqiu-MT-9B,gold,['Zertifizierungsdiensteanbieter'],[],gold + hyponym match -> hyponym survives,134
+358,Qingqiu-MT-9B,gold,['aktiv Teil'],[],gold + hyponym match -> hyponym survives,360
+364,Qingqiu-MT-9B,gold,['unmittelbar Auswirkung'],[],gold + hyponym match -> hyponym survives,366
+399,Qingqiu-MT-9B,gold,['Höhenarbeit'],[],gold + hyponym match -> hyponym survives,401
+532,Qingqiu-MT-9B,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,534
+7,Qingqiu-MT-9B,co-hyponym,['qualifiziert Labortechniker'],[],gold + co-hyponym match -> gold survives,9
+19,Qingqiu-MT-9B,co-hyponym,['Provinzassessor'],[],gold + co-hyponym match -> gold survives,21
+84,Qingqiu-MT-9B,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+96,Qingqiu-MT-9B,co-hyponym,['Beglaubigung der Unterschrift'],[],gold + co-hyponym match -> gold survives,98
+105,Qingqiu-MT-9B,co-hyponym,['Ersatzerklärung der Notorietätsakt'],[],gold + co-hyponym match -> gold survives,107
+158,Qingqiu-MT-9B,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,Qingqiu-MT-9B,co-hyponym,['Auszug aus der Sterberegister'],[],gold + co-hyponym match -> gold survives,202
+201,Qingqiu-MT-9B,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+285,Qingqiu-MT-9B,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+328,Qingqiu-MT-9B,co-hyponym,['teilweise geschlossen Raum'],[],gold + co-hyponym match -> gold survives,330
+370,Qingqiu-MT-9B,co-hyponym,['nicht durchsturzsicher'],[],gold + co-hyponym match -> gold survives,372
+388,Qingqiu-MT-9B,co-hyponym,['Trittfläche'],[],gold + co-hyponym match -> gold survives,390
+392,Qingqiu-MT-9B,co-hyponym,['Magnetfeld'],[],gold + co-hyponym match -> gold survives,394
+431,Qingqiu-MT-9B,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+454,Qingqiu-MT-9B,co-hyponym,['rotierend Handwerkzeug'],[],gold + co-hyponym match -> gold survives,456
+467,Qingqiu-MT-9B,co-hyponym,['FELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,469
+497,Qingqiu-MT-9B,co-hyponym,['oropharyngealer Abstrich'],[],gold + co-hyponym match -> gold survives,499
+513,Qingqiu-MT-9B,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+530,Qingqiu-MT-9B,co-hyponym,['qualifiziert Labortechniker'],[],gold + co-hyponym match -> gold survives,532
+553,Qingqiu-MT-9B,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+23,Qingqiu-MT-9B,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+36,Qingqiu-MT-9B,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,Qingqiu-MT-9B,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+73,Qingqiu-MT-9B,hypernym,['Ungeborener'],[],gold + hypernym match -> gold survives,75
+91,Qingqiu-MT-9B,hypernym,['Großstadt mit besonderer Status'],[],gold + hypernym match -> gold survives,93
+105,Qingqiu-MT-9B,hypernym,['Ersatzerklärung'],[],gold + hypernym match -> gold survives,107
+122,Qingqiu-MT-9B,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+124,Qingqiu-MT-9B,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+125,Qingqiu-MT-9B,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,127
+147,Qingqiu-MT-9B,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,Qingqiu-MT-9B,hypernym,"['Führerschein', 'Führerschein']",[],gold + hypernym match -> gold survives,152
+161,Qingqiu-MT-9B,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+214,Qingqiu-MT-9B,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,Qingqiu-MT-9B,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,Qingqiu-MT-9B,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+359,Qingqiu-MT-9B,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,361
+377,Qingqiu-MT-9B,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+378,Qingqiu-MT-9B,hypernym,['Schutzkleidung'],[],gold + hypernym match -> gold survives,380
+388,Qingqiu-MT-9B,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+396,Qingqiu-MT-9B,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+426,Qingqiu-MT-9B,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+442,Qingqiu-MT-9B,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+454,Qingqiu-MT-9B,hypernym,['Handwerkzeug'],[],gold + hypernym match -> gold survives,456
+469,Qingqiu-MT-9B,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,Qingqiu-MT-9B,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,Qingqiu-MT-9B,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+492,Qingqiu-MT-9B,hypernym,['Isolierung'],[],gold + hypernym match -> gold survives,494
+63,Dubformer,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,65
+64,Dubformer,gold,['Zugangsrecht'],[],gold + hyponym match -> hyponym survives,66
+81,Dubformer,gold,['Gewerkschaftsvertretung'],[],gold + hyponym match -> hyponym survives,83
+138,Dubformer,gold,"['Verkehrszeichen und -einrichtungen', 'Verkehrszeichen und -einrichtungen']",[],gold + hyponym match -> hyponym survives,140
+305,Dubformer,gold,['Vorsorgeuntersuchung'],[],gold + hyponym match -> hyponym survives,307
+358,Dubformer,gold,['aktiv Teil'],[],gold + hyponym match -> hyponym survives,360
+364,Dubformer,gold,['unmittelbar Wirkung'],[],gold + hyponym match -> hyponym survives,366
+486,Dubformer,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,488
+532,Dubformer,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,534
+15,Dubformer,co-hyponym,['Provinzassessor'],[],gold + co-hyponym match -> gold survives,17
+19,Dubformer,co-hyponym,['Provinzassessor'],[],gold + co-hyponym match -> gold survives,21
+82,Dubformer,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+84,Dubformer,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+158,Dubformer,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,Dubformer,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+201,Dubformer,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+272,Dubformer,co-hyponym,['Gamasche'],[],gold + co-hyponym match -> gold survives,274
+285,Dubformer,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+309,Dubformer,co-hyponym,"['Verbotszeichen', 'Warnzeichen']",[],gold + co-hyponym match -> gold survives,311
+329,Dubformer,co-hyponym,['heiß Umgebung'],[],gold + co-hyponym match -> gold survives,331
+332,Dubformer,co-hyponym,['Vollbrand'],[],gold + co-hyponym match -> gold survives,334
+341,Dubformer,co-hyponym,['technisch Massnahme'],[],gold + co-hyponym match -> gold survives,343
+370,Dubformer,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+385,Dubformer,co-hyponym,['Quetschgefahr'],[],gold + co-hyponym match -> gold survives,387
+392,Dubformer,co-hyponym,['Magnetfeld'],[],gold + co-hyponym match -> gold survives,394
+431,Dubformer,co-hyponym,['elektrische Arbeit'],[],gold + co-hyponym match -> gold survives,433
+459,Dubformer,co-hyponym,['Niederspannungsfreileitung'],[],gold + co-hyponym match -> gold survives,461
+467,Dubformer,co-hyponym,"['SELV-Stromkreis', 'FELV-Stromkreis']",[],gold + co-hyponym match -> gold survives,469
+468,Dubformer,co-hyponym,['PELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,470
+497,Dubformer,co-hyponym,['Oropharyngealabstrich'],[],gold + co-hyponym match -> gold survives,499
+510,Dubformer,co-hyponym,"['Rente wegen teilweiser Erwerbsminderung', 'Rente wegen teilweiser Erwerbsminderung']",[],gold + co-hyponym match -> gold survives,512
+513,Dubformer,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+553,Dubformer,co-hyponym,['elektrische Arbeit'],[],gold + co-hyponym match -> gold survives,555
+23,Dubformer,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+34,Dubformer,hypernym,['Archiv'],[],gold + hypernym match -> gold survives,36
+36,Dubformer,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,Dubformer,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+72,Dubformer,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,74
+73,Dubformer,hypernym,['Ungeborener'],[],gold + hypernym match -> gold survives,75
+91,Dubformer,hypernym,['Großstadt mit Sonderstatus'],[],gold + hypernym match -> gold survives,93
+92,Dubformer,hypernym,['Großstadt mit Sonderstatus'],[],gold + hypernym match -> gold survives,94
+115,Dubformer,hypernym,['Fahrübung'],[],gold + hypernym match -> gold survives,117
+122,Dubformer,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+124,Dubformer,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+125,Dubformer,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,127
+147,Dubformer,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,Dubformer,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+155,Dubformer,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+161,Dubformer,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+209,Dubformer,hypernym,['Maßnahme'],[],gold + hypernym match -> gold survives,211
+214,Dubformer,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,Dubformer,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+222,Dubformer,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,224
+225,Dubformer,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+237,Dubformer,hypernym,['Kraftfahrzeug'],[],gold + hypernym match -> gold survives,239
+275,Dubformer,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,277
+333,Dubformer,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+339,Dubformer,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,341
+359,Dubformer,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,361
+377,Dubformer,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+378,Dubformer,hypernym,['Schutzkleidung'],[],gold + hypernym match -> gold survives,380
+388,Dubformer,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+396,Dubformer,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+403,Dubformer,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,405
+426,Dubformer,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,Dubformer,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+442,Dubformer,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+469,Dubformer,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,Dubformer,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,Dubformer,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+507,Dubformer,hypernym,"['Umfrage', 'Umfrage']",[],gold + hypernym match -> gold survives,509
+64,DeepSeek V4 Pro,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,66
+138,DeepSeek V4 Pro,gold,"['Straßenbeschilderung', 'Straßenbeschilderung']",[],gold + hyponym match -> hyponym survives,140
+364,DeepSeek V4 Pro,gold,['unmittelbar Auswirkung'],[],gold + hyponym match -> hyponym survives,366
+412,DeepSeek V4 Pro,gold,['Bürgerzugang'],[],gold + hyponym match -> hyponym survives,414
+462,DeepSeek V4 Pro,gold,['Tür'],[],gold + hyponym match -> hyponym survives,464
+485,DeepSeek V4 Pro,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,487
+486,DeepSeek V4 Pro,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,488
+532,DeepSeek V4 Pro,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,534
+19,DeepSeek V4 Pro,co-hyponym,['Landesrat'],[],gold + co-hyponym match -> gold survives,21
+82,DeepSeek V4 Pro,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+84,DeepSeek V4 Pro,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+158,DeepSeek V4 Pro,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,DeepSeek V4 Pro,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+201,DeepSeek V4 Pro,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+285,DeepSeek V4 Pro,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+309,DeepSeek V4 Pro,co-hyponym,"['Verbotszeichen', 'Warnzeichen']",[],gold + co-hyponym match -> gold survives,311
+332,DeepSeek V4 Pro,co-hyponym,"['Zündphase', 'Vollbrandphase']",[],gold + co-hyponym match -> gold survives,334
+370,DeepSeek V4 Pro,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+392,DeepSeek V4 Pro,co-hyponym,['Magnetfeld'],[],gold + co-hyponym match -> gold survives,394
+431,DeepSeek V4 Pro,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+454,DeepSeek V4 Pro,co-hyponym,['rotierend handgeführt Werkzeug'],[],gold + co-hyponym match -> gold survives,456
+467,DeepSeek V4 Pro,co-hyponym,['FELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,469
+468,DeepSeek V4 Pro,co-hyponym,['PELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,470
+497,DeepSeek V4 Pro,co-hyponym,['oropharyngealer Abstrich'],[],gold + co-hyponym match -> gold survives,499
+530,DeepSeek V4 Pro,co-hyponym,['qualifizierter Labortechniker'],[],gold + co-hyponym match -> gold survives,532
+553,DeepSeek V4 Pro,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+36,DeepSeek V4 Pro,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,DeepSeek V4 Pro,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+105,DeepSeek V4 Pro,hypernym,['Ersatzerklärung'],[],gold + hypernym match -> gold survives,107
+122,DeepSeek V4 Pro,hypernym,"['Fahrbahn', 'Fahrbahn']",[],gold + hypernym match -> gold survives,124
+124,DeepSeek V4 Pro,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+147,DeepSeek V4 Pro,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,DeepSeek V4 Pro,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+155,DeepSeek V4 Pro,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+161,DeepSeek V4 Pro,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+176,DeepSeek V4 Pro,hypernym,['Vorschriftssignal'],[],gold + hypernym match -> gold survives,178
+214,DeepSeek V4 Pro,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,DeepSeek V4 Pro,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,DeepSeek V4 Pro,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+275,DeepSeek V4 Pro,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,277
+333,DeepSeek V4 Pro,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+338,DeepSeek V4 Pro,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+339,DeepSeek V4 Pro,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,341
+377,DeepSeek V4 Pro,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+388,DeepSeek V4 Pro,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+396,DeepSeek V4 Pro,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+426,DeepSeek V4 Pro,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,DeepSeek V4 Pro,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+442,DeepSeek V4 Pro,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+469,DeepSeek V4 Pro,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,DeepSeek V4 Pro,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,DeepSeek V4 Pro,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+507,DeepSeek V4 Pro,hypernym,"['Umfrage', 'Umfrage']",[],gold + hypernym match -> gold survives,509
+51,CUNI-EdUKate,gold,['logisch-systematische Interpretation'],[],gold + hyponym match -> hyponym survives,53
+167,CUNI-EdUKate,gold,['Ding'],[],gold + hyponym match -> hyponym survives,169
+44,CUNI-EdUKate,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,46
+285,CUNI-EdUKate,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+431,CUNI-EdUKate,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+161,CUNI-EdUKate,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+214,CUNI-EdUKate,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,CUNI-EdUKate,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+315,CUNI-EdUKate,hypernym,['Verbotsschild'],[],gold + hypernym match -> gold survives,317
+449,CUNI-EdUKate,hypernym,['Ergonomie'],[],gold + hypernym match -> gold survives,451
+471,CUNI-EdUKate,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+64,Qwen 3.6 - 27b,gold,['Zugangsrecht'],[],gold + hyponym match -> hyponym survives,66
+81,Qwen 3.6 - 27b,gold,['Gewerkschaftsvertretung'],[],gold + hyponym match -> hyponym survives,83
+305,Qwen 3.6 - 27b,gold,['Vorsorgeuntersuchung'],[],gold + hyponym match -> hyponym survives,307
+413,Qwen 3.6 - 27b,gold,['Bürgerzugang'],[],gold + hyponym match -> hyponym survives,415
+484,Qwen 3.6 - 27b,gold,['analoge Ausfertigung'],[],gold + hyponym match -> hyponym survives,486
+485,Qwen 3.6 - 27b,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,487
+532,Qwen 3.6 - 27b,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,534
+19,Qwen 3.6 - 27b,co-hyponym,['Provinzassessor'],[],gold + co-hyponym match -> gold survives,21
+44,Qwen 3.6 - 27b,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,46
+82,Qwen 3.6 - 27b,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+84,Qwen 3.6 - 27b,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+158,Qwen 3.6 - 27b,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,Qwen 3.6 - 27b,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+272,Qwen 3.6 - 27b,co-hyponym,['Gamasche'],[],gold + co-hyponym match -> gold survives,274
+285,Qwen 3.6 - 27b,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+329,Qwen 3.6 - 27b,co-hyponym,['heiß Umgebung'],[],gold + co-hyponym match -> gold survives,331
+332,Qwen 3.6 - 27b,co-hyponym,['Vollbrand'],[],gold + co-hyponym match -> gold survives,334
+370,Qwen 3.6 - 27b,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+388,Qwen 3.6 - 27b,co-hyponym,['Auftritt'],[],gold + co-hyponym match -> gold survives,390
+392,Qwen 3.6 - 27b,co-hyponym,['magnetisch Feld'],[],gold + co-hyponym match -> gold survives,394
+431,Qwen 3.6 - 27b,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+467,Qwen 3.6 - 27b,co-hyponym,['FELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,469
+468,Qwen 3.6 - 27b,co-hyponym,['PELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,470
+513,Qwen 3.6 - 27b,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+553,Qwen 3.6 - 27b,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+23,Qwen 3.6 - 27b,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+38,Qwen 3.6 - 27b,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+72,Qwen 3.6 - 27b,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,74
+73,Qwen 3.6 - 27b,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,75
+112,Qwen 3.6 - 27b,hypernym,['Verwaltungsstrafe'],[],gold + hypernym match -> gold survives,114
+122,Qwen 3.6 - 27b,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+124,Qwen 3.6 - 27b,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+147,Qwen 3.6 - 27b,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,Qwen 3.6 - 27b,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+161,Qwen 3.6 - 27b,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+214,Qwen 3.6 - 27b,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+216,Qwen 3.6 - 27b,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,218
+217,Qwen 3.6 - 27b,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,Qwen 3.6 - 27b,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+338,Qwen 3.6 - 27b,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+377,Qwen 3.6 - 27b,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+378,Qwen 3.6 - 27b,hypernym,['Schutzkleidung'],[],gold + hypernym match -> gold survives,380
+388,Qwen 3.6 - 27b,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+396,Qwen 3.6 - 27b,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+426,Qwen 3.6 - 27b,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,Qwen 3.6 - 27b,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+469,Qwen 3.6 - 27b,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,Qwen 3.6 - 27b,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,Qwen 3.6 - 27b,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+492,Qwen 3.6 - 27b,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,494
+507,Qwen 3.6 - 27b,hypernym,"['Umfrage', 'Umfrage']",[],gold + hypernym match -> gold survives,509
+210,Gemini 3.1 Pro,gold,['Buch'],[],gold + hyponym match -> hyponym survives,212
+364,Gemini 3.1 Pro,gold,"['direkt Auswirkung', 'unmittelbar Auswirkung']",[],gold + hyponym match -> hyponym survives,366
+15,Gemini 3.1 Pro,co-hyponym,['Landesrat'],[],gold + co-hyponym match -> gold survives,17
+19,Gemini 3.1 Pro,co-hyponym,['Landesrat'],[],gold + co-hyponym match -> gold survives,21
+82,Gemini 3.1 Pro,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+84,Gemini 3.1 Pro,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+105,Gemini 3.1 Pro,co-hyponym,['Erklärung zu Ersatz ein beeidet Bezeugungsurkunde'],[],gold + co-hyponym match -> gold survives,107
+158,Gemini 3.1 Pro,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,Gemini 3.1 Pro,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+201,Gemini 3.1 Pro,co-hyponym,"['Auszug aus dem Geburtenregister', 'Auszug aus dem Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+285,Gemini 3.1 Pro,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+309,Gemini 3.1 Pro,co-hyponym,"['Verbotszeichen', 'Warnzeichen']",[],gold + co-hyponym match -> gold survives,311
+329,Gemini 3.1 Pro,co-hyponym,['heiß Umgebung'],[],gold + co-hyponym match -> gold survives,331
+332,Gemini 3.1 Pro,co-hyponym,['Vollbrand'],[],gold + co-hyponym match -> gold survives,334
+341,Gemini 3.1 Pro,co-hyponym,['technisch Massnahme'],[],gold + co-hyponym match -> gold survives,343
+370,Gemini 3.1 Pro,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+388,Gemini 3.1 Pro,co-hyponym,['Auftritt'],[],gold + co-hyponym match -> gold survives,390
+392,Gemini 3.1 Pro,co-hyponym,['Magnetfeld'],[],gold + co-hyponym match -> gold survives,394
+431,Gemini 3.1 Pro,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+454,Gemini 3.1 Pro,co-hyponym,['rotierend Handwerkzeug'],[],gold + co-hyponym match -> gold survives,456
+467,Gemini 3.1 Pro,co-hyponym,"['SELV-Stromkreis', 'FELV-Stromkreis']",[],gold + co-hyponym match -> gold survives,469
+468,Gemini 3.1 Pro,co-hyponym,['PELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,470
+497,Gemini 3.1 Pro,co-hyponym,['Oropharyngealabstrich'],[],gold + co-hyponym match -> gold survives,499
+513,Gemini 3.1 Pro,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+553,Gemini 3.1 Pro,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+23,Gemini 3.1 Pro,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+34,Gemini 3.1 Pro,hypernym,['Archiv'],[],gold + hypernym match -> gold survives,36
+36,Gemini 3.1 Pro,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,Gemini 3.1 Pro,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+72,Gemini 3.1 Pro,hypernym,['Ungeborener'],[],gold + hypernym match -> gold survives,74
+73,Gemini 3.1 Pro,hypernym,['Ungeborener'],[],gold + hypernym match -> gold survives,75
+91,Gemini 3.1 Pro,hypernym,['Großstadt mit Sonderstatus'],[],gold + hypernym match -> gold survives,93
+92,Gemini 3.1 Pro,hypernym,['Großstadt mit Sonderstatus'],[],gold + hypernym match -> gold survives,94
+122,Gemini 3.1 Pro,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+124,Gemini 3.1 Pro,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+125,Gemini 3.1 Pro,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,127
+147,Gemini 3.1 Pro,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,Gemini 3.1 Pro,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+155,Gemini 3.1 Pro,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+161,Gemini 3.1 Pro,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+209,Gemini 3.1 Pro,hypernym,['Maßnahme'],[],gold + hypernym match -> gold survives,211
+214,Gemini 3.1 Pro,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,Gemini 3.1 Pro,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,Gemini 3.1 Pro,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+275,Gemini 3.1 Pro,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,277
+333,Gemini 3.1 Pro,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+338,Gemini 3.1 Pro,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+359,Gemini 3.1 Pro,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,361
+367,Gemini 3.1 Pro,hypernym,['PSA'],[],gold + hypernym match -> gold survives,369
+377,Gemini 3.1 Pro,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+388,Gemini 3.1 Pro,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+396,Gemini 3.1 Pro,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+403,Gemini 3.1 Pro,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,405
+426,Gemini 3.1 Pro,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,Gemini 3.1 Pro,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+442,Gemini 3.1 Pro,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+454,Gemini 3.1 Pro,hypernym,['Handwerkzeug'],[],gold + hypernym match -> gold survives,456
+469,Gemini 3.1 Pro,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,Gemini 3.1 Pro,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,Gemini 3.1 Pro,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+507,Gemini 3.1 Pro,hypernym,"['Umfrage', 'Umfrage']",[],gold + hypernym match -> gold survives,509
+51,Ministral 3 - 14B,gold,['logisch-systematische Interpretation'],[],gold + hyponym match -> hyponym survives,53
+81,Ministral 3 - 14B,gold,['Gewerkschaftsvertretung'],[],gold + hyponym match -> hyponym survives,83
+358,Ministral 3 - 14B,gold,['aktiv Teil'],[],gold + hyponym match -> hyponym survives,360
+82,Ministral 3 - 14B,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+158,Ministral 3 - 14B,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,Ministral 3 - 14B,co-hyponym,['Auszug aus der Sterberegister'],[],gold + co-hyponym match -> gold survives,202
+201,Ministral 3 - 14B,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+329,Ministral 3 - 14B,co-hyponym,['heiß Umgebung'],[],gold + co-hyponym match -> gold survives,331
+341,Ministral 3 - 14B,co-hyponym,['technisch Massnahme'],[],gold + co-hyponym match -> gold survives,343
+370,Ministral 3 - 14B,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+391,Ministral 3 - 14B,co-hyponym,"['Treppentritt', 'Rolltritt']",[],gold + co-hyponym match -> gold survives,393
+392,Ministral 3 - 14B,co-hyponym,['magnetisch Feld'],[],gold + co-hyponym match -> gold survives,394
+454,Ministral 3 - 14B,co-hyponym,['rotierend handgeführt Werkzeug'],[],gold + co-hyponym match -> gold survives,456
+23,Ministral 3 - 14B,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+72,Ministral 3 - 14B,hypernym,['Ungeborener'],[],gold + hypernym match -> gold survives,74
+112,Ministral 3 - 14B,hypernym,['Verwaltungsstrafe'],[],gold + hypernym match -> gold survives,114
+122,Ministral 3 - 14B,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+124,Ministral 3 - 14B,hypernym,['Führerausweis'],[],gold + hypernym match -> gold survives,126
+147,Ministral 3 - 14B,hypernym,['Abfall'],[],gold + hypernym match -> gold survives,149
+150,Ministral 3 - 14B,hypernym,"['Führerschein', 'Führerschein']",[],gold + hypernym match -> gold survives,152
+214,Ministral 3 - 14B,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+222,Ministral 3 - 14B,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,224
+225,Ministral 3 - 14B,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+253,Ministral 3 - 14B,hypernym,['Landschaftsschutz'],[],gold + hypernym match -> gold survives,255
+333,Ministral 3 - 14B,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+366,Ministral 3 - 14B,hypernym,['Expositionswert für mechanisch Vibration'],[],gold + hypernym match -> gold survives,368
+377,Ministral 3 - 14B,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+391,Ministral 3 - 14B,hypernym,['Trittleiter'],[],gold + hypernym match -> gold survives,393
+396,Ministral 3 - 14B,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+426,Ministral 3 - 14B,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,Ministral 3 - 14B,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+470,Ministral 3 - 14B,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,Ministral 3 - 14B,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+491,Ministral 3 - 14B,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,493
+492,Ministral 3 - 14B,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,494
+501,Ministral 3 - 14B,hypernym,['Schutzausrüstung'],[],gold + hypernym match -> gold survives,503
+507,Ministral 3 - 14B,hypernym,['Umfrage'],[],gold + hypernym match -> gold survives,509
+51,GoogleTranslate,gold,['logisch-systematische Interpretation'],[],gold + hyponym match -> hyponym survives,53
+210,GoogleTranslate,gold,['Buch'],[],gold + hyponym match -> hyponym survives,212
+285,GoogleTranslate,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+392,GoogleTranslate,co-hyponym,['Magnetfeld'],[],gold + co-hyponym match -> gold survives,394
+467,GoogleTranslate,co-hyponym,['FELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,469
+468,GoogleTranslate,co-hyponym,['PELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,470
+513,GoogleTranslate,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+23,GoogleTranslate,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+147,GoogleTranslate,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,GoogleTranslate,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+155,GoogleTranslate,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+161,GoogleTranslate,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+217,GoogleTranslate,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,GoogleTranslate,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+315,GoogleTranslate,hypernym,['Verbotsschild'],[],gold + hypernym match -> gold survives,317
+377,GoogleTranslate,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+471,GoogleTranslate,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+491,GoogleTranslate,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,493
+156,Tower 9B,gold,['Amtsblatt'],[],gold + hyponym match -> hyponym survives,158
+167,Tower 9B,gold,['Ding'],[],gold + hyponym match -> hyponym survives,169
+248,Tower 9B,gold,['Antimafia-Dokumentation'],[],gold + hyponym match -> hyponym survives,250
+19,Tower 9B,co-hyponym,['Landesassessor'],[],gold + co-hyponym match -> gold survives,21
+84,Tower 9B,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+158,Tower 9B,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,Tower 9B,co-hyponym,['Auszug aus der Sterberegister'],[],gold + co-hyponym match -> gold survives,202
+285,Tower 9B,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+329,Tower 9B,co-hyponym,['heiß Umgebung'],[],gold + co-hyponym match -> gold survives,331
+332,Tower 9B,co-hyponym,['Vollbrand'],[],gold + co-hyponym match -> gold survives,334
+370,Tower 9B,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+431,Tower 9B,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+467,Tower 9B,co-hyponym,['FELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,469
+468,Tower 9B,co-hyponym,['PELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,470
+497,Tower 9B,co-hyponym,['Oropharynx-Abstrich'],[],gold + co-hyponym match -> gold survives,499
+513,Tower 9B,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+530,Tower 9B,co-hyponym,['qualifiziert Labortechniker'],[],gold + co-hyponym match -> gold survives,532
+553,Tower 9B,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+23,Tower 9B,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+34,Tower 9B,hypernym,['Archiv'],[],gold + hypernym match -> gold survives,36
+36,Tower 9B,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,Tower 9B,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+72,Tower 9B,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,74
+122,Tower 9B,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+124,Tower 9B,hypernym,"['Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+145,Tower 9B,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,147
+147,Tower 9B,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,Tower 9B,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+155,Tower 9B,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+214,Tower 9B,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,Tower 9B,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,Tower 9B,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+252,Tower 9B,hypernym,['Denkmalschutz'],[],gold + hypernym match -> gold survives,254
+333,Tower 9B,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+377,Tower 9B,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+388,Tower 9B,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+403,Tower 9B,hypernym,['Auffangsystem'],[],gold + hypernym match -> gold survives,405
+426,Tower 9B,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,Tower 9B,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+442,Tower 9B,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+469,Tower 9B,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,Tower 9B,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,Tower 9B,hypernym,"['Gefahr', 'Risiko']",[],gold + hypernym match -> gold survives,473
+491,Tower 9B,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,493
+492,Tower 9B,hypernym,['Isolierung'],[],gold + hypernym match -> gold survives,494
+541,Tower 9B,hypernym,['Denkmalschutz'],[],gold + hypernym match -> gold survives,543
+63,Mistral Medium 3.5,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,65
+64,Mistral Medium 3.5,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,66
+167,Mistral Medium 3.5,gold,['Ding'],[],gold + hyponym match -> hyponym survives,169
+358,Mistral Medium 3.5,gold,['aktiv Teil'],[],gold + hyponym match -> hyponym survives,360
+413,Mistral Medium 3.5,gold,['Bürgerzugang'],[],gold + hyponym match -> hyponym survives,415
+484,Mistral Medium 3.5,gold,['analoge Ausfertigung'],[],gold + hyponym match -> hyponym survives,486
+485,Mistral Medium 3.5,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,487
+532,Mistral Medium 3.5,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,534
+19,Mistral Medium 3.5,co-hyponym,['Provinzassessor'],[],gold + co-hyponym match -> gold survives,21
+44,Mistral Medium 3.5,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,46
+84,Mistral Medium 3.5,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+92,Mistral Medium 3.5,co-hyponym,['Großstadtrat'],[],gold + co-hyponym match -> gold survives,94
+105,Mistral Medium 3.5,co-hyponym,['Ersatzerklärung der Notorietätsakt'],[],gold + co-hyponym match -> gold survives,107
+158,Mistral Medium 3.5,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,Mistral Medium 3.5,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+272,Mistral Medium 3.5,co-hyponym,['Gamasche'],[],gold + co-hyponym match -> gold survives,274
+285,Mistral Medium 3.5,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+309,Mistral Medium 3.5,co-hyponym,"['Verbotszeichen', 'Warnzeichen']",[],gold + co-hyponym match -> gold survives,311
+329,Mistral Medium 3.5,co-hyponym,['heiß Umgebung'],[],gold + co-hyponym match -> gold survives,331
+332,Mistral Medium 3.5,co-hyponym,['Vollbrand'],[],gold + co-hyponym match -> gold survives,334
+341,Mistral Medium 3.5,co-hyponym,['technisch Massnahme'],[],gold + co-hyponym match -> gold survives,343
+370,Mistral Medium 3.5,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+385,Mistral Medium 3.5,co-hyponym,['Quetschgefahr'],[],gold + co-hyponym match -> gold survives,387
+388,Mistral Medium 3.5,co-hyponym,['Auftrittsfläche'],[],gold + co-hyponym match -> gold survives,390
+424,Mistral Medium 3.5,co-hyponym,"['Lastenaufzug', 'Lastenaufzug']",[],gold + co-hyponym match -> gold survives,426
+431,Mistral Medium 3.5,co-hyponym,['elektrische Arbeit'],[],gold + co-hyponym match -> gold survives,433
+467,Mistral Medium 3.5,co-hyponym,['FELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,469
+468,Mistral Medium 3.5,co-hyponym,['PELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,470
+497,Mistral Medium 3.5,co-hyponym,['oropharyngealer Abstrich'],[],gold + co-hyponym match -> gold survives,499
+510,Mistral Medium 3.5,co-hyponym,"['Rente wegen teilweiser Erwerbsminderung', 'Rente wegen teilweiser Erwerbsminderung']",[],gold + co-hyponym match -> gold survives,512
+513,Mistral Medium 3.5,co-hyponym,['Zinszuschuss'],[],gold + co-hyponym match -> gold survives,515
+553,Mistral Medium 3.5,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+36,Mistral Medium 3.5,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,Mistral Medium 3.5,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+72,Mistral Medium 3.5,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,74
+73,Mistral Medium 3.5,hypernym,['Ungeborener'],[],gold + hypernym match -> gold survives,75
+91,Mistral Medium 3.5,hypernym,['Großstadt mit besonderer Status'],[],gold + hypernym match -> gold survives,93
+92,Mistral Medium 3.5,hypernym,['Großstadt mit Sonderstatus'],[],gold + hypernym match -> gold survives,94
+105,Mistral Medium 3.5,hypernym,['Ersatzerklärung'],[],gold + hypernym match -> gold survives,107
+122,Mistral Medium 3.5,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+124,Mistral Medium 3.5,hypernym,"['Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+147,Mistral Medium 3.5,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,Mistral Medium 3.5,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+155,Mistral Medium 3.5,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+161,Mistral Medium 3.5,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+209,Mistral Medium 3.5,hypernym,['Maßnahme'],[],gold + hypernym match -> gold survives,211
+214,Mistral Medium 3.5,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,Mistral Medium 3.5,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,Mistral Medium 3.5,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+253,Mistral Medium 3.5,hypernym,['Landschaftsschutz'],[],gold + hypernym match -> gold survives,255
+260,Mistral Medium 3.5,hypernym,['Rechtssprechungssektion'],[],gold + hypernym match -> gold survives,262
+275,Mistral Medium 3.5,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,277
+315,Mistral Medium 3.5,hypernym,['Verbotsschild'],[],gold + hypernym match -> gold survives,317
+333,Mistral Medium 3.5,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+366,Mistral Medium 3.5,hypernym,['Expositionswert für mechanisch Vibration'],[],gold + hypernym match -> gold survives,368
+367,Mistral Medium 3.5,hypernym,['PSA'],[],gold + hypernym match -> gold survives,369
+377,Mistral Medium 3.5,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+378,Mistral Medium 3.5,hypernym,['Schutzkleidung'],[],gold + hypernym match -> gold survives,380
+388,Mistral Medium 3.5,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+392,Mistral Medium 3.5,hypernym,['elektromagnetisch Feld'],[],gold + hypernym match -> gold survives,394
+396,Mistral Medium 3.5,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+403,Mistral Medium 3.5,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,405
+426,Mistral Medium 3.5,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,Mistral Medium 3.5,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+442,Mistral Medium 3.5,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+469,Mistral Medium 3.5,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,Mistral Medium 3.5,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,Mistral Medium 3.5,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+507,Mistral Medium 3.5,hypernym,['Umfrage'],[],gold + hypernym match -> gold survives,509
+50,Command A+,gold,['Reservefonds'],[],gold + hyponym match -> hyponym survives,52
+63,Command A+,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,65
+64,Command A+,gold,['Zugangsrecht'],[],gold + hyponym match -> hyponym survives,66
+156,Command A+,gold,['Amtsblatt'],[],gold + hyponym match -> hyponym survives,158
+462,Command A+,gold,['Tür'],[],gold + hyponym match -> hyponym survives,464
+485,Command A+,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,487
+486,Command A+,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,488
+532,Command A+,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,534
+19,Command A+,co-hyponym,['Provinzassessor'],[],gold + co-hyponym match -> gold survives,21
+82,Command A+,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+84,Command A+,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+96,Command A+,co-hyponym,['Unterschriftsbeglaubigung'],[],gold + co-hyponym match -> gold survives,98
+200,Command A+,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+201,Command A+,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+285,Command A+,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+309,Command A+,co-hyponym,['Verbotssignal'],[],gold + co-hyponym match -> gold survives,311
+332,Command A+,co-hyponym,['Vollbrand'],[],gold + co-hyponym match -> gold survives,334
+392,Command A+,co-hyponym,['magnetisch Feld'],[],gold + co-hyponym match -> gold survives,394
+431,Command A+,co-hyponym,['elektrische Arbeit'],[],gold + co-hyponym match -> gold survives,433
+454,Command A+,co-hyponym,['rotierend Handwerkzeug'],[],gold + co-hyponym match -> gold survives,456
+467,Command A+,co-hyponym,['FELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,469
+468,Command A+,co-hyponym,['PELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,470
+510,Command A+,co-hyponym,"['Rente wegen teilweiser Erwerbsminderung', 'Rente wegen teilweiser Erwerbsminderung']",[],gold + co-hyponym match -> gold survives,512
+553,Command A+,co-hyponym,['elektrische Arbeit'],[],gold + co-hyponym match -> gold survives,555
+36,Command A+,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,Command A+,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+72,Command A+,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,74
+122,Command A+,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+124,Command A+,hypernym,['Führerausweis'],[],gold + hypernym match -> gold survives,126
+147,Command A+,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,Command A+,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+155,Command A+,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+161,Command A+,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+179,Command A+,hypernym,['Kennzeichen'],[],gold + hypernym match -> gold survives,181
+209,Command A+,hypernym,['Verwaltungsmaßnahme'],[],gold + hypernym match -> gold survives,211
+214,Command A+,hypernym,['Archiv'],[],gold + hypernym match -> gold survives,216
+217,Command A+,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,Command A+,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+253,Command A+,hypernym,['Landschaftsschutz'],[],gold + hypernym match -> gold survives,255
+314,Command A+,hypernym,['Verbotsschild'],[],gold + hypernym match -> gold survives,316
+338,Command A+,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+377,Command A+,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+378,Command A+,hypernym,['Schutzkleidung'],[],gold + hypernym match -> gold survives,380
+388,Command A+,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+396,Command A+,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+404,Command A+,hypernym,['Sanierung'],[],gold + hypernym match -> gold survives,406
+454,Command A+,hypernym,['Handwerkzeug'],[],gold + hypernym match -> gold survives,456
+471,Command A+,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+492,Command A+,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,494
+507,Command A+,hypernym,['Umfrage'],[],gold + hypernym match -> gold survives,509
+4,Cohere CAT+,gold,['Region'],[],gold + hyponym match -> hyponym survives,6
+21,Cohere CAT+,gold,['Selbstständiger'],[],gold + hyponym match -> hyponym survives,23
+50,Cohere CAT+,gold,['Reservefonds'],[],gold + hyponym match -> hyponym survives,52
+58,Cohere CAT+,gold,['Beitrag'],[],gold + hyponym match -> hyponym survives,60
+64,Cohere CAT+,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,66
+122,Cohere CAT+,gold,['Fußgängerüberweg'],[],gold + hyponym match -> hyponym survives,124
+132,Cohere CAT+,gold,['Zertifizierungsdiensteanbieter'],[],gold + hyponym match -> hyponym survives,134
+156,Cohere CAT+,gold,['Amtsblatt'],[],gold + hyponym match -> hyponym survives,158
+229,Cohere CAT+,gold,['Schule'],[],gold + hyponym match -> hyponym survives,231
+292,Cohere CAT+,gold,['Ausbildung'],[],gold + hyponym match -> hyponym survives,294
+312,Cohere CAT+,gold,['Symbol'],[],gold + hyponym match -> hyponym survives,314
+358,Cohere CAT+,gold,['aktiv Teil'],[],gold + hyponym match -> hyponym survives,360
+364,Cohere CAT+,gold,['unmittelbar Auswirkung'],[],gold + hyponym match -> hyponym survives,366
+386,Cohere CAT+,gold,['Erwerbsfähigkeit'],[],gold + hyponym match -> hyponym survives,388
+399,Cohere CAT+,gold,['Höhenarbeit'],[],gold + hyponym match -> hyponym survives,401
+413,Cohere CAT+,gold,['Bürgerzugang'],[],gold + hyponym match -> hyponym survives,415
+484,Cohere CAT+,gold,['analoge Ausfertigung'],[],gold + hyponym match -> hyponym survives,486
+485,Cohere CAT+,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,487
+486,Cohere CAT+,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,488
+532,Cohere CAT+,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,534
+555,Cohere CAT+,gold,['ärztlich Untersuchung'],[],gold + hyponym match -> hyponym survives,557
+7,Cohere CAT+,co-hyponym,['qualifiziert Labortechniker'],[],gold + co-hyponym match -> gold survives,9
+19,Cohere CAT+,co-hyponym,['Provinzassessor'],[],gold + co-hyponym match -> gold survives,21
+82,Cohere CAT+,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+84,Cohere CAT+,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+158,Cohere CAT+,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+179,Cohere CAT+,co-hyponym,['rotes Kennzeichen'],[],gold + co-hyponym match -> gold survives,181
+200,Cohere CAT+,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+201,Cohere CAT+,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+285,Cohere CAT+,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+309,Cohere CAT+,co-hyponym,"['Verbotssignal', 'Warnzeichen']",[],gold + co-hyponym match -> gold survives,311
+329,Cohere CAT+,co-hyponym,['heiß Umgebung'],[],gold + co-hyponym match -> gold survives,331
+332,Cohere CAT+,co-hyponym,['Zündphase'],[],gold + co-hyponym match -> gold survives,334
+341,Cohere CAT+,co-hyponym,['technisch Massnahme'],[],gold + co-hyponym match -> gold survives,343
+370,Cohere CAT+,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+385,Cohere CAT+,co-hyponym,['Quetschgefahr'],[],gold + co-hyponym match -> gold survives,387
+388,Cohere CAT+,co-hyponym,['Auftrittsfläche'],[],gold + co-hyponym match -> gold survives,390
+392,Cohere CAT+,co-hyponym,['Magnetfeld'],[],gold + co-hyponym match -> gold survives,394
+431,Cohere CAT+,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+467,Cohere CAT+,co-hyponym,"['SELV-Stromkreis', 'FELV-Stromkreis']",[],gold + co-hyponym match -> gold survives,469
+468,Cohere CAT+,co-hyponym,['PELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,470
+497,Cohere CAT+,co-hyponym,['oropharyngealer Abstrich'],[],gold + co-hyponym match -> gold survives,499
+513,Cohere CAT+,co-hyponym,['Zinszuschuss'],[],gold + co-hyponym match -> gold survives,515
+530,Cohere CAT+,co-hyponym,['qualifiziert Labortechniker'],[],gold + co-hyponym match -> gold survives,532
+23,Cohere CAT+,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+36,Cohere CAT+,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,Cohere CAT+,hypernym,['Einkommenssteuer'],[],gold + hypernym match -> gold survives,40
+72,Cohere CAT+,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,74
+73,Cohere CAT+,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,75
+92,Cohere CAT+,hypernym,['Großstadt mit Sonderstatus'],[],gold + hypernym match -> gold survives,94
+124,Cohere CAT+,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+125,Cohere CAT+,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,127
+147,Cohere CAT+,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,Cohere CAT+,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+155,Cohere CAT+,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+161,Cohere CAT+,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+176,Cohere CAT+,hypernym,['Vorschriftssignal'],[],gold + hypernym match -> gold survives,178
+179,Cohere CAT+,hypernym,['Kennzeichen'],[],gold + hypernym match -> gold survives,181
+209,Cohere CAT+,hypernym,['Verwaltungsmaßnahme'],[],gold + hypernym match -> gold survives,211
+217,Cohere CAT+,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,Cohere CAT+,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+275,Cohere CAT+,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,277
+287,Cohere CAT+,hypernym,['Schutzkleidung'],[],gold + hypernym match -> gold survives,289
+315,Cohere CAT+,hypernym,['Verbotsschild'],[],gold + hypernym match -> gold survives,317
+338,Cohere CAT+,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+339,Cohere CAT+,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,341
+359,Cohere CAT+,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,361
+367,Cohere CAT+,hypernym,['PSA'],[],gold + hypernym match -> gold survives,369
+377,Cohere CAT+,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+388,Cohere CAT+,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+394,Cohere CAT+,hypernym,['Anlegeleiter'],[],gold + hypernym match -> gold survives,396
+396,Cohere CAT+,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+417,Cohere CAT+,hypernym,['Gas'],[],gold + hypernym match -> gold survives,419
+426,Cohere CAT+,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,Cohere CAT+,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+442,Cohere CAT+,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+470,Cohere CAT+,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,Cohere CAT+,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+507,Cohere CAT+,hypernym,"['Umfrage', 'Befragung']",[],gold + hypernym match -> gold survives,509
+4,GPT OSS 120B,gold,['Region'],[],gold + hyponym match -> hyponym survives,6
+63,GPT OSS 120B,gold,['Zugangsrecht'],[],gold + hyponym match -> hyponym survives,65
+156,GPT OSS 120B,gold,['Amtsblatt'],[],gold + hyponym match -> hyponym survives,158
+229,GPT OSS 120B,gold,['Schule'],[],gold + hyponym match -> hyponym survives,231
+358,GPT OSS 120B,gold,['aktiv Teil'],[],gold + hyponym match -> hyponym survives,360
+364,GPT OSS 120B,gold,['unmittelbar Wirkung'],[],gold + hyponym match -> hyponym survives,366
+462,GPT OSS 120B,gold,['Tür'],[],gold + hyponym match -> hyponym survives,464
+485,GPT OSS 120B,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,487
+486,GPT OSS 120B,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,488
+532,GPT OSS 120B,gold,['Zugangsrecht'],[],gold + hyponym match -> hyponym survives,534
+19,GPT OSS 120B,co-hyponym,['Provinzassessor'],[],gold + co-hyponym match -> gold survives,21
+82,GPT OSS 120B,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+84,GPT OSS 120B,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+158,GPT OSS 120B,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,GPT OSS 120B,co-hyponym,"['Auszug aus dem Heiratsregister', 'Auszug aus dem Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+201,GPT OSS 120B,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+272,GPT OSS 120B,co-hyponym,['Gamasche'],[],gold + co-hyponym match -> gold survives,274
+285,GPT OSS 120B,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+309,GPT OSS 120B,co-hyponym,['Warnzeichen'],[],gold + co-hyponym match -> gold survives,311
+332,GPT OSS 120B,co-hyponym,['Zündphase'],[],gold + co-hyponym match -> gold survives,334
+370,GPT OSS 120B,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+385,GPT OSS 120B,co-hyponym,['Quetschgefahr'],[],gold + co-hyponym match -> gold survives,387
+388,GPT OSS 120B,co-hyponym,['Auftritt'],[],gold + co-hyponym match -> gold survives,390
+513,GPT OSS 120B,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+553,GPT OSS 120B,co-hyponym,['elektrische Arbeit'],[],gold + co-hyponym match -> gold survives,555
+36,GPT OSS 120B,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,GPT OSS 120B,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+91,GPT OSS 120B,hypernym,['Großstadt mit Sonderstatus'],[],gold + hypernym match -> gold survives,93
+105,GPT OSS 120B,hypernym,['Ersatzerklärung'],[],gold + hypernym match -> gold survives,107
+112,GPT OSS 120B,hypernym,['Verwaltungsstrafe'],[],gold + hypernym match -> gold survives,114
+122,GPT OSS 120B,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+147,GPT OSS 120B,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+155,GPT OSS 120B,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+161,GPT OSS 120B,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+170,GPT OSS 120B,hypernym,['Titel'],[],gold + hypernym match -> gold survives,172
+209,GPT OSS 120B,hypernym,['Maßnahme'],[],gold + hypernym match -> gold survives,211
+214,GPT OSS 120B,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,GPT OSS 120B,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,GPT OSS 120B,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+237,GPT OSS 120B,hypernym,['Kraftfahrzeug'],[],gold + hypernym match -> gold survives,239
+275,GPT OSS 120B,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,277
+333,GPT OSS 120B,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+359,GPT OSS 120B,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,361
+377,GPT OSS 120B,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+378,GPT OSS 120B,hypernym,['Schutzkleidung'],[],gold + hypernym match -> gold survives,380
+388,GPT OSS 120B,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+396,GPT OSS 120B,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+403,GPT OSS 120B,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,405
+442,GPT OSS 120B,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+491,GPT OSS 120B,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,493
+492,GPT OSS 120B,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,494
+64,Qwen 3.5 - 9b,gold,['Zugangsrecht'],[],gold + hyponym match -> hyponym survives,66
+132,Qwen 3.5 - 9b,gold,['Zertifizierungsdiensteanbieter'],[],gold + hyponym match -> hyponym survives,134
+146,Qwen 3.5 - 9b,gold,['Freilandstraße'],[],gold + hyponym match -> hyponym survives,148
+156,Qwen 3.5 - 9b,gold,['Amtsblatt'],[],gold + hyponym match -> hyponym survives,158
+257,Qwen 3.5 - 9b,gold,['Konservierung'],[],gold + hyponym match -> hyponym survives,259
+387,Qwen 3.5 - 9b,gold,['Expositionsrisiko'],[],gold + hyponym match -> hyponym survives,389
+399,Qwen 3.5 - 9b,gold,['Höhenarbeit'],[],gold + hyponym match -> hyponym survives,401
+413,Qwen 3.5 - 9b,gold,['Bürgerzugang'],[],gold + hyponym match -> hyponym survives,415
+462,Qwen 3.5 - 9b,gold,['Tür'],[],gold + hyponym match -> hyponym survives,464
+532,Qwen 3.5 - 9b,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,534
+84,Qwen 3.5 - 9b,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+158,Qwen 3.5 - 9b,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+309,Qwen 3.5 - 9b,co-hyponym,['Warnzeichen'],[],gold + co-hyponym match -> gold survives,311
+328,Qwen 3.5 - 9b,co-hyponym,['teilweise geschlossen Raum'],[],gold + co-hyponym match -> gold survives,330
+329,Qwen 3.5 - 9b,co-hyponym,['heiß Umgebung'],[],gold + co-hyponym match -> gold survives,331
+341,Qwen 3.5 - 9b,co-hyponym,['technisch Massnahme'],[],gold + co-hyponym match -> gold survives,343
+431,Qwen 3.5 - 9b,co-hyponym,['elektrische Arbeit'],[],gold + co-hyponym match -> gold survives,433
+467,Qwen 3.5 - 9b,co-hyponym,['FELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,469
+497,Qwen 3.5 - 9b,co-hyponym,['Oropharynx-Abstrich'],[],gold + co-hyponym match -> gold survives,499
+513,Qwen 3.5 - 9b,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+530,Qwen 3.5 - 9b,co-hyponym,['qualifiziert Labortechniker'],[],gold + co-hyponym match -> gold survives,532
+553,Qwen 3.5 - 9b,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+36,Qwen 3.5 - 9b,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,Qwen 3.5 - 9b,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+72,Qwen 3.5 - 9b,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,74
+122,Qwen 3.5 - 9b,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+124,Qwen 3.5 - 9b,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+147,Qwen 3.5 - 9b,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,Qwen 3.5 - 9b,hypernym,"['Führerschein', 'Führerschein']",[],gold + hypernym match -> gold survives,152
+161,Qwen 3.5 - 9b,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+214,Qwen 3.5 - 9b,hypernym,['Archiv'],[],gold + hypernym match -> gold survives,216
+216,Qwen 3.5 - 9b,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,218
+217,Qwen 3.5 - 9b,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,Qwen 3.5 - 9b,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+235,Qwen 3.5 - 9b,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,237
+333,Qwen 3.5 - 9b,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+338,Qwen 3.5 - 9b,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+377,Qwen 3.5 - 9b,hypernym,['Explosionsgrenze'],[],gold + hypernym match -> gold survives,379
+378,Qwen 3.5 - 9b,hypernym,['Schutzkleidung'],[],gold + hypernym match -> gold survives,380
+396,Qwen 3.5 - 9b,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+427,Qwen 3.5 - 9b,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+469,Qwen 3.5 - 9b,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,Qwen 3.5 - 9b,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,Qwen 3.5 - 9b,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+474,Qwen 3.5 - 9b,hypernym,['Gefahr'],[],gold + hypernym match -> gold survives,476
+492,Qwen 3.5 - 9b,hypernym,['Isolierung'],[],gold + hypernym match -> gold survives,494
+507,Qwen 3.5 - 9b,hypernym,"['Umfrage', 'Umfrage']",[],gold + hypernym match -> gold survives,509
+31,Gemma 4 - 4B,gold,['Rückfall'],[],gold + hyponym match -> hyponym survives,33
+64,Gemma 4 - 4B,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,66
+132,Gemma 4 - 4B,gold,['Zertifizierungsdiensteanbieter'],[],gold + hyponym match -> hyponym survives,134
+146,Gemma 4 - 4B,gold,['Freilandstraße'],[],gold + hyponym match -> hyponym survives,148
+210,Gemma 4 - 4B,gold,['Buch'],[],gold + hyponym match -> hyponym survives,212
+312,Gemma 4 - 4B,gold,['Symbol'],[],gold + hyponym match -> hyponym survives,314
+412,Gemma 4 - 4B,gold,['Bürgerzugang'],[],gold + hyponym match -> hyponym survives,414
+413,Gemma 4 - 4B,gold,['Bürgerzugang'],[],gold + hyponym match -> hyponym survives,415
+535,Gemma 4 - 4B,gold,['Freilandstraße'],[],gold + hyponym match -> hyponym survives,537
+19,Gemma 4 - 4B,co-hyponym,['Provinzassessor'],[],gold + co-hyponym match -> gold survives,21
+44,Gemma 4 - 4B,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,46
+82,Gemma 4 - 4B,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+158,Gemma 4 - 4B,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,Gemma 4 - 4B,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+201,Gemma 4 - 4B,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+329,Gemma 4 - 4B,co-hyponym,['heiß Umgebung'],[],gold + co-hyponym match -> gold survives,331
+341,Gemma 4 - 4B,co-hyponym,['technisch Massnahme'],[],gold + co-hyponym match -> gold survives,343
+385,Gemma 4 - 4B,co-hyponym,['Quetschgefahr'],[],gold + co-hyponym match -> gold survives,387
+431,Gemma 4 - 4B,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+467,Gemma 4 - 4B,co-hyponym,['FELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,469
+497,Gemma 4 - 4B,co-hyponym,['Oropharynx-Abstrich'],[],gold + co-hyponym match -> gold survives,499
+513,Gemma 4 - 4B,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+530,Gemma 4 - 4B,co-hyponym,['qualifiziert Labortechniker'],[],gold + co-hyponym match -> gold survives,532
+553,Gemma 4 - 4B,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+38,Gemma 4 - 4B,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+122,Gemma 4 - 4B,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+124,Gemma 4 - 4B,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+147,Gemma 4 - 4B,hypernym,['Abfall'],[],gold + hypernym match -> gold survives,149
+150,Gemma 4 - 4B,hypernym,"['Führerschein', 'Führerschein']",[],gold + hypernym match -> gold survives,152
+155,Gemma 4 - 4B,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+161,Gemma 4 - 4B,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+209,Gemma 4 - 4B,hypernym,['Maßnahme'],[],gold + hypernym match -> gold survives,211
+214,Gemma 4 - 4B,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,Gemma 4 - 4B,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,Gemma 4 - 4B,hypernym,"['Fahrzeug', 'Kleinbus']",[],gold + hypernym match -> gold survives,227
+230,Gemma 4 - 4B,hypernym,['nichtstaatlich Schule'],[],gold + hypernym match -> gold survives,232
+333,Gemma 4 - 4B,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+338,Gemma 4 - 4B,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+377,Gemma 4 - 4B,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+388,Gemma 4 - 4B,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+396,Gemma 4 - 4B,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+417,Gemma 4 - 4B,hypernym,['Gas'],[],gold + hypernym match -> gold survives,419
+426,Gemma 4 - 4B,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,Gemma 4 - 4B,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+442,Gemma 4 - 4B,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+469,Gemma 4 - 4B,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,Gemma 4 - 4B,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,Gemma 4 - 4B,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+491,Gemma 4 - 4B,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,493
+492,Gemma 4 - 4B,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,494
+507,Gemma 4 - 4B,hypernym,['Umfrage'],[],gold + hypernym match -> gold survives,509
+285,CUNI-MH-v3,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+288,CUNI-MH-v3,co-hyponym,['Schutzschuh'],[],gold + co-hyponym match -> gold survives,290
+34,CUNI-MH-v3,hypernym,['Archiv'],[],gold + hypernym match -> gold survives,36
+122,CUNI-MH-v3,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+155,CUNI-MH-v3,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+161,CUNI-MH-v3,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+214,CUNI-MH-v3,hypernym,['Archiv'],[],gold + hypernym match -> gold survives,216
+225,CUNI-MH-v3,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+315,CUNI-MH-v3,hypernym,['Verbotsschild'],[],gold + hypernym match -> gold survives,317
+471,CUNI-MH-v3,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+491,CUNI-MH-v3,hypernym,['Isolierung'],[],gold + hypernym match -> gold survives,493
+305,TRIVE,gold,['Vorsorgeuntersuchung'],[],gold + hyponym match -> hyponym survives,307
+364,TRIVE,gold,['unmittelbare Auswirkungen'],[],gold + hyponym match -> hyponym survives,366
+15,TRIVE,co-hyponym,['Landesrat'],[],gold + co-hyponym match -> gold survives,17
+19,TRIVE,co-hyponym,['Landesrat'],[],gold + co-hyponym match -> gold survives,21
+82,TRIVE,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+84,TRIVE,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+105,TRIVE,co-hyponym,['Ersatzerklärung der Notorietätsakt'],[],gold + co-hyponym match -> gold survives,107
+158,TRIVE,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,TRIVE,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+201,TRIVE,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+285,TRIVE,co-hyponym,['Sicherheitsschuh'],[],gold + co-hyponym match -> gold survives,287
+332,TRIVE,co-hyponym,['Vollbrand'],[],gold + co-hyponym match -> gold survives,334
+370,TRIVE,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+388,TRIVE,co-hyponym,['Auftritt'],[],gold + co-hyponym match -> gold survives,390
+431,TRIVE,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+454,TRIVE,co-hyponym,['rotierend handgeführt Werkzeug'],[],gold + co-hyponym match -> gold survives,456
+467,TRIVE,co-hyponym,"['SELV-Stromkreis', 'FELV-Stromkreis']",[],gold + co-hyponym match -> gold survives,469
+468,TRIVE,co-hyponym,['PELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,470
+497,TRIVE,co-hyponym,['oropharyngealer Abstrich'],[],gold + co-hyponym match -> gold survives,499
+513,TRIVE,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+553,TRIVE,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+34,TRIVE,hypernym,['Archiv'],[],gold + hypernym match -> gold survives,36
+36,TRIVE,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,TRIVE,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+72,TRIVE,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,74
+73,TRIVE,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,75
+105,TRIVE,hypernym,['Ersatzerklärung'],[],gold + hypernym match -> gold survives,107
+122,TRIVE,hypernym,"['Fahrbahn', 'Fahrbahn']",[],gold + hypernym match -> gold survives,124
+124,TRIVE,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+125,TRIVE,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,127
+147,TRIVE,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,TRIVE,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+155,TRIVE,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+161,TRIVE,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+209,TRIVE,hypernym,['Maßnahme'],[],gold + hypernym match -> gold survives,211
+214,TRIVE,hypernym,['Archiv'],[],gold + hypernym match -> gold survives,216
+217,TRIVE,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,TRIVE,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+275,TRIVE,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,277
+333,TRIVE,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+338,TRIVE,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+367,TRIVE,hypernym,['PSA'],[],gold + hypernym match -> gold survives,369
+377,TRIVE,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+388,TRIVE,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+396,TRIVE,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+403,TRIVE,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,405
+426,TRIVE,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,TRIVE,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+442,TRIVE,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+469,TRIVE,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,TRIVE,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,TRIVE,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+507,TRIVE,hypernym,"['Umfrage', 'Umfrage']",[],gold + hypernym match -> gold survives,509
+41,SalamandraTA,gold,['Dienststellenkonferenz'],[],gold + hyponym match -> hyponym survives,43
+122,SalamandraTA,gold,['Fußgängerüberweg'],[],gold + hyponym match -> hyponym survives,124
+146,SalamandraTA,gold,['Freilandstraße'],[],gold + hyponym match -> hyponym survives,148
+167,SalamandraTA,gold,['Ding'],[],gold + hyponym match -> hyponym survives,169
+257,SalamandraTA,gold,['Konservierung'],[],gold + hyponym match -> hyponym survives,259
+386,SalamandraTA,gold,['Erwerbsfähigkeit'],[],gold + hyponym match -> hyponym survives,388
+413,SalamandraTA,gold,['Bürgerzugang'],[],gold + hyponym match -> hyponym survives,415
+440,SalamandraTA,gold,['gesamtstaatliches Arbeitsinspektorat'],[],gold + hyponym match -> hyponym survives,442
+485,SalamandraTA,gold,"['digitale Kopie', 'digitale Kopie']",[],gold + hyponym match -> hyponym survives,487
+19,SalamandraTA,co-hyponym,['Landesrat'],[],gold + co-hyponym match -> gold survives,21
+158,SalamandraTA,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+332,SalamandraTA,co-hyponym,['voll entwickelter Brand'],[],gold + co-hyponym match -> gold survives,334
+370,SalamandraTA,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+385,SalamandraTA,co-hyponym,['Quetschgefahr'],[],gold + co-hyponym match -> gold survives,387
+392,SalamandraTA,co-hyponym,['Magnetfeld'],[],gold + co-hyponym match -> gold survives,394
+431,SalamandraTA,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+553,SalamandraTA,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+23,SalamandraTA,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+34,SalamandraTA,hypernym,['Archiv'],[],gold + hypernym match -> gold survives,36
+36,SalamandraTA,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+73,SalamandraTA,hypernym,['ungeborener'],[],gold + hypernym match -> gold survives,75
+91,SalamandraTA,hypernym,['Großstadt mit Sonderstatus'],[],gold + hypernym match -> gold survives,93
+112,SalamandraTA,hypernym,['Verwaltungsstrafe'],[],gold + hypernym match -> gold survives,114
+124,SalamandraTA,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+145,SalamandraTA,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,147
+147,SalamandraTA,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,SalamandraTA,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+161,SalamandraTA,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+183,SalamandraTA,hypernym,['Staatsverwaltung'],[],gold + hypernym match -> gold survives,185
+209,SalamandraTA,hypernym,['Maßnahme'],[],gold + hypernym match -> gold survives,211
+214,SalamandraTA,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,SalamandraTA,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+219,SalamandraTA,hypernym,['Kraftwagen'],[],gold + hypernym match -> gold survives,221
+222,SalamandraTA,hypernym,"['Motorwagen', 'Fahrzeug']",[],gold + hypernym match -> gold survives,224
+225,SalamandraTA,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+234,SalamandraTA,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,236
+241,SalamandraTA,hypernym,['Anhänger'],[],gold + hypernym match -> gold survives,243
+288,SalamandraTA,hypernym,['Fußschutzausrüstung'],[],gold + hypernym match -> gold survives,290
+314,SalamandraTA,hypernym,['Verbotsschild'],[],gold + hypernym match -> gold survives,316
+315,SalamandraTA,hypernym,['Verbotsschild'],[],gold + hypernym match -> gold survives,317
+333,SalamandraTA,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+343,SalamandraTA,hypernym,['Gefahr'],[],gold + hypernym match -> gold survives,345
+359,SalamandraTA,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,361
+377,SalamandraTA,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+378,SalamandraTA,hypernym,['Schutzkleidung'],[],gold + hypernym match -> gold survives,380
+388,SalamandraTA,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+394,SalamandraTA,hypernym,['Anlegeleiter'],[],gold + hypernym match -> gold survives,396
+439,SalamandraTA,hypernym,['Risikoklasse'],[],gold + hypernym match -> gold survives,441
+442,SalamandraTA,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+472,SalamandraTA,hypernym,['Not-Halt-Befehlsgerät'],[],gold + hypernym match -> gold survives,474
+492,SalamandraTA,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,494
+507,SalamandraTA,hypernym,['Umfrage'],[],gold + hypernym match -> gold survives,509
+541,SalamandraTA,hypernym,['Denkmalschutz'],[],gold + hypernym match -> gold survives,543
+64,GPT 5.5,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,66
+138,GPT 5.5,gold,"['Beschilderung', 'Beschilderung']",[],gold + hyponym match -> hyponym survives,140
+364,GPT 5.5,gold,['unmittelbare Auswirkungen'],[],gold + hyponym match -> hyponym survives,366
+485,GPT 5.5,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,487
+486,GPT 5.5,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,488
+15,GPT 5.5,co-hyponym,['Landesrat'],[],gold + co-hyponym match -> gold survives,17
+19,GPT 5.5,co-hyponym,['Landesrat'],[],gold + co-hyponym match -> gold survives,21
+82,GPT 5.5,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+84,GPT 5.5,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+105,GPT 5.5,co-hyponym,['Ersatzerklärung ein beeidet Bezeugungsurkunde'],[],gold + co-hyponym match -> gold survives,107
+158,GPT 5.5,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,GPT 5.5,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+201,GPT 5.5,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+309,GPT 5.5,co-hyponym,"['Verbotszeichen', 'Warnzeichen']",[],gold + co-hyponym match -> gold survives,311
+332,GPT 5.5,co-hyponym,['Vollbrand'],[],gold + co-hyponym match -> gold survives,334
+385,GPT 5.5,co-hyponym,['Quetschgefahr'],[],gold + co-hyponym match -> gold survives,387
+388,GPT 5.5,co-hyponym,['Auftritt'],[],gold + co-hyponym match -> gold survives,390
+392,GPT 5.5,co-hyponym,['Magnetfeld'],[],gold + co-hyponym match -> gold survives,394
+431,GPT 5.5,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+454,GPT 5.5,co-hyponym,['rotierend handgeführt Werkzeug'],[],gold + co-hyponym match -> gold survives,456
+467,GPT 5.5,co-hyponym,['FELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,469
+468,GPT 5.5,co-hyponym,['PELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,470
+497,GPT 5.5,co-hyponym,['oropharyngealer Abstrich'],[],gold + co-hyponym match -> gold survives,499
+513,GPT 5.5,co-hyponym,['Zinsbeitrag'],[],gold + co-hyponym match -> gold survives,515
+553,GPT 5.5,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+34,GPT 5.5,hypernym,['Archiv'],[],gold + hypernym match -> gold survives,36
+36,GPT 5.5,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,GPT 5.5,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+72,GPT 5.5,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,74
+73,GPT 5.5,hypernym,['Ungeborener'],[],gold + hypernym match -> gold survives,75
+91,GPT 5.5,hypernym,['Großstadt mit Sonderstatus'],[],gold + hypernym match -> gold survives,93
+92,GPT 5.5,hypernym,['Großstadt mit besonderer Status'],[],gold + hypernym match -> gold survives,94
+105,GPT 5.5,hypernym,['Ersatzerklärung'],[],gold + hypernym match -> gold survives,107
+122,GPT 5.5,hypernym,"['Fahrbahn', 'Fahrbahn']",[],gold + hypernym match -> gold survives,124
+124,GPT 5.5,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+125,GPT 5.5,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,127
+147,GPT 5.5,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,GPT 5.5,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+161,GPT 5.5,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+176,GPT 5.5,hypernym,['Vorschriftssignal'],[],gold + hypernym match -> gold survives,178
+209,GPT 5.5,hypernym,['Maßnahme'],[],gold + hypernym match -> gold survives,211
+214,GPT 5.5,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,GPT 5.5,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,GPT 5.5,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+275,GPT 5.5,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,277
+333,GPT 5.5,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+338,GPT 5.5,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+339,GPT 5.5,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,341
+367,GPT 5.5,hypernym,['PSA'],[],gold + hypernym match -> gold survives,369
+377,GPT 5.5,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+388,GPT 5.5,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+396,GPT 5.5,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+403,GPT 5.5,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,405
+426,GPT 5.5,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,GPT 5.5,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+442,GPT 5.5,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+469,GPT 5.5,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,GPT 5.5,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,GPT 5.5,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+507,GPT 5.5,hypernym,"['Befragung', 'Umfrage']",[],gold + hypernym match -> gold survives,509
+4,Gemma 4 - 31B,gold,['Region'],[],gold + hyponym match -> hyponym survives,6
+63,Gemma 4 - 31B,gold,['Zugangsrecht'],[],gold + hyponym match -> hyponym survives,65
+64,Gemma 4 - 31B,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,66
+358,Gemma 4 - 31B,gold,['aktiv Teil'],[],gold + hyponym match -> hyponym survives,360
+484,Gemma 4 - 31B,gold,['analoge Abschrift'],[],gold + hyponym match -> hyponym survives,486
+485,Gemma 4 - 31B,gold,['digitale Kopie'],[],gold + hyponym match -> hyponym survives,487
+532,Gemma 4 - 31B,gold,['Recht auf Zugang'],[],gold + hyponym match -> hyponym survives,534
+19,Gemma 4 - 31B,co-hyponym,['Provinzassessor'],[],gold + co-hyponym match -> gold survives,21
+82,Gemma 4 - 31B,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+84,Gemma 4 - 31B,co-hyponym,['von Amts wegen eingeleitet Verfahren'],[],gold + co-hyponym match -> gold survives,86
+105,Gemma 4 - 31B,co-hyponym,['Ersatzerklärung der Notorietätsakt'],[],gold + co-hyponym match -> gold survives,107
+158,Gemma 4 - 31B,co-hyponym,['Passwort'],[],gold + co-hyponym match -> gold survives,160
+200,Gemma 4 - 31B,co-hyponym,"['Auszug aus der Heiratsregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,202
+201,Gemma 4 - 31B,co-hyponym,"['Auszug aus der Geburtenregister', 'Auszug aus der Sterberegister']",[],gold + co-hyponym match -> gold survives,203
+309,Gemma 4 - 31B,co-hyponym,"['Verbotszeichen', 'Warnzeichen']",[],gold + co-hyponym match -> gold survives,311
+329,Gemma 4 - 31B,co-hyponym,['heiß Umgebung'],[],gold + co-hyponym match -> gold survives,331
+332,Gemma 4 - 31B,co-hyponym,['Vollbrand'],[],gold + co-hyponym match -> gold survives,334
+341,Gemma 4 - 31B,co-hyponym,['technisch Massnahme'],[],gold + co-hyponym match -> gold survives,343
+370,Gemma 4 - 31B,co-hyponym,['begehbar'],[],gold + co-hyponym match -> gold survives,372
+388,Gemma 4 - 31B,co-hyponym,['Trittfläche'],[],gold + co-hyponym match -> gold survives,390
+392,Gemma 4 - 31B,co-hyponym,['magnetisch Feld'],[],gold + co-hyponym match -> gold survives,394
+431,Gemma 4 - 31B,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+467,Gemma 4 - 31B,co-hyponym,['FELV-Stromkreis'],[],gold + co-hyponym match -> gold survives,469
+497,Gemma 4 - 31B,co-hyponym,['oropharyngealer Abstrich'],[],gold + co-hyponym match -> gold survives,499
+553,Gemma 4 - 31B,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,555
+23,Gemma 4 - 31B,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+36,Gemma 4 - 31B,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,Gemma 4 - 31B,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+72,Gemma 4 - 31B,hypernym,['ungeborenes Kind'],[],gold + hypernym match -> gold survives,74
+105,Gemma 4 - 31B,hypernym,['Ersatzerklärung'],[],gold + hypernym match -> gold survives,107
+122,Gemma 4 - 31B,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+124,Gemma 4 - 31B,hypernym,"['Führerausweis', 'Führerausweis', 'Führerausweis']",[],gold + hypernym match -> gold survives,126
+125,Gemma 4 - 31B,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,127
+147,Gemma 4 - 31B,hypernym,"['Abfall', 'Abfall']",[],gold + hypernym match -> gold survives,149
+150,Gemma 4 - 31B,hypernym,['Führerschein'],[],gold + hypernym match -> gold survives,152
+155,Gemma 4 - 31B,hypernym,['Gymnasium'],[],gold + hypernym match -> gold survives,157
+161,Gemma 4 - 31B,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+165,Gemma 4 - 31B,hypernym,['kataster'],[],gold + hypernym match -> gold survives,167
+214,Gemma 4 - 31B,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,Gemma 4 - 31B,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+222,Gemma 4 - 31B,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,224
+225,Gemma 4 - 31B,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+333,Gemma 4 - 31B,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+338,Gemma 4 - 31B,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+377,Gemma 4 - 31B,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+388,Gemma 4 - 31B,hypernym,['Stufe'],[],gold + hypernym match -> gold survives,390
+391,Gemma 4 - 31B,hypernym,['Trittleiter'],[],gold + hypernym match -> gold survives,393
+396,Gemma 4 - 31B,hypernym,['Risiko'],[],gold + hypernym match -> gold survives,398
+403,Gemma 4 - 31B,hypernym,['Schutzsystem gegen Absturz'],[],gold + hypernym match -> gold survives,405
+426,Gemma 4 - 31B,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,428
+427,Gemma 4 - 31B,hypernym,['Biostoff'],[],gold + hypernym match -> gold survives,429
+442,Gemma 4 - 31B,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,444
+469,Gemma 4 - 31B,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,471
+470,Gemma 4 - 31B,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,Gemma 4 - 31B,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+507,Gemma 4 - 31B,hypernym,"['Umfrage', 'Umfrage']",[],gold + hypernym match -> gold survives,509
+4,GLM 4 - 9B,gold,['Region'],[],gold + hyponym match -> hyponym survives,6
+364,GLM 4 - 9B,gold,['unmittelbar Auswirkung'],[],gold + hyponym match -> hyponym survives,366
+412,GLM 4 - 9B,gold,['Bürgerzugang'],[],gold + hyponym match -> hyponym survives,414
+413,GLM 4 - 9B,gold,['Bürgerzugang'],[],gold + hyponym match -> hyponym survives,415
+10,GLM 4 - 9B,co-hyponym,['Statistiker'],[],gold + co-hyponym match -> gold survives,12
+82,GLM 4 - 9B,co-hyponym,['Wirtschaftlichkeit'],[],gold + co-hyponym match -> gold survives,84
+329,GLM 4 - 9B,co-hyponym,['heiß Umgebung'],[],gold + co-hyponym match -> gold survives,331
+341,GLM 4 - 9B,co-hyponym,['technisch Massnahme'],[],gold + co-hyponym match -> gold survives,343
+431,GLM 4 - 9B,co-hyponym,['elektrisch Arbeit'],[],gold + co-hyponym match -> gold survives,433
+497,GLM 4 - 9B,co-hyponym,['oropharyngealer Abstrich'],[],gold + co-hyponym match -> gold survives,499
+530,GLM 4 - 9B,co-hyponym,['qualifiziert Labortechniker'],[],gold + co-hyponym match -> gold survives,532
+23,GLM 4 - 9B,hypernym,['Unfall'],[],gold + hypernym match -> gold survives,25
+36,GLM 4 - 9B,hypernym,['Erwerbstätigkeit'],[],gold + hypernym match -> gold survives,38
+38,GLM 4 - 9B,hypernym,['Einkommensteuer'],[],gold + hypernym match -> gold survives,40
+122,GLM 4 - 9B,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,124
+125,GLM 4 - 9B,hypernym,['Fahrbahn'],[],gold + hypernym match -> gold survives,127
+150,GLM 4 - 9B,hypernym,"['Führerschein', 'Führerschein']",[],gold + hypernym match -> gold survives,152
+161,GLM 4 - 9B,hypernym,['Abschnitt'],[],gold + hypernym match -> gold survives,163
+179,GLM 4 - 9B,hypernym,['Kennzeichen'],[],gold + hypernym match -> gold survives,181
+209,GLM 4 - 9B,hypernym,['Maßnahme'],[],gold + hypernym match -> gold survives,211
+214,GLM 4 - 9B,hypernym,"['Archiv', 'Archiv']",[],gold + hypernym match -> gold survives,216
+217,GLM 4 - 9B,hypernym,['Feuerwehr'],[],gold + hypernym match -> gold survives,219
+225,GLM 4 - 9B,hypernym,['Fahrzeug'],[],gold + hypernym match -> gold survives,227
+333,GLM 4 - 9B,hypernym,['Brand'],[],gold + hypernym match -> gold survives,335
+338,GLM 4 - 9B,hypernym,['Exposition'],[],gold + hypernym match -> gold survives,340
+377,GLM 4 - 9B,hypernym,"['Explosionsgrenze', 'Explosionsgrenze']",[],gold + hypernym match -> gold survives,379
+417,GLM 4 - 9B,hypernym,['Gas'],[],gold + hypernym match -> gold survives,419
+470,GLM 4 - 9B,hypernym,['elektrisch Gerät'],[],gold + hypernym match -> gold survives,472
+471,GLM 4 - 9B,hypernym,"['Risiko', 'Risiko']",[],gold + hypernym match -> gold survives,473
+491,GLM 4 - 9B,hypernym,['Isolation'],[],gold + hypernym match -> gold survives,493
+492,GLM 4 - 9B,hypernym,['Isolierung'],[],gold + hypernym match -> gold survives,494

@@ -1,0 +1,25 @@
+model	ST
+Cohere CAT+	35.22
+Command A+	32.69
+CUNI-EdUKate	26.62
+CUNI-MH-v3	29.05
+DeepSeek V4 Pro	44.26
+Dubformer	42.6
+Gemini 3.1 Pro	48.39
+Gemma 4 - 31B	37.98
+Gemma 4 - 4B	31.39
+GLM 4 - 9B	24.54
+GoogleTranslate	28.08
+GPT 5.5	47.38
+GPT OSS 120B	31.81
+GPT OSS 20B	25.14
+Ministral 3 - 14B	26.92
+Mistral Medium 3.5	38.09
+Qingqiu-MT-9B	32.95
+Qwen 3.5 - 9b	27.06
+Qwen 3.6 - 27b	34.06
+SalamandraTA	30.82
+Tiny Aya Global	21.75
+Tower 9B	33.3
+TRIVE	46.76
+UvA-MT	40.58
